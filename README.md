@@ -9,6 +9,9 @@
 
  * 📫 My LinkedIn profile: https://www.linkedin.com/in/nidhi-divecha/
 
+
+## 🛠 Skills
+
 **Programming Languages**: Python (NumPy, Pandas), SQL, and R
 
 **IDEs/Editors**: Jupyter Notebook, PyCharm, Visual Studio Code
