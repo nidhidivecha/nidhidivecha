@@ -1,7 +1,7 @@
 # 👋Hi, I'm Nidhi Divecha! 
 
 
- * 👀 I’m interested in crunching data, creating insightful interactive dashboards, building models,
+ * 👀 I’m interested in crunching data, creating insightful interactive dashboards, building models
 
  * 🌱 I’m currently working as a Data Analyst Intern at Fortray Global Service Ltd in London
 
@@ -12,19 +12,15 @@
 
 ## 🛠 Skills
 
-**Programming Languages**: Python (NumPy, Pandas), SQL, and R
+**Programming Languages**: Python, R, Java
 
-**IDEs/Editors**: Jupyter Notebook, PyCharm, Visual Studio Code
+**Data Manipulation and Analysis**: NumPy, Pandas, Matplotlib, Seaborn, Plotly
 
-**Databases**: Microsoft SQL Server, PostgreSQL, MySQL Workbench
+**Tools & Technology**: Jupyter Notebook, PyCharm, Visual Studio Code, MySQL, Tableau, Power BI, MS Office
 
-**Data Wrangling**: Data Cleaning (Pandas), Data Transformation, Data Integration
+**Database Management**: Microsoft SQL Server, PostgreSQL, MySQL Workbench, MongoDB
 
 **Statistical Analysis**: Descriptive statistics, Regression analysis, and Hypothesis testing
-
-**Data Visualization**: Matplotlib, Seaborn, Plotly
-
-**Visualization tools**: Dashboarding using Tableau, Microsoft Power BI, and Advanced Excel
 
 
 ## 🔗 Links
